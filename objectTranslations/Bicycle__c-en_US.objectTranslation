@@ -9,6 +9,10 @@
         <value>Bicycles</value>
     </caseValues>
     <fields>
+        <label><!-- IsActive --></label>
+        <name>IsActive__c</name>
+    </fields>
+    <fields>
         <label><!-- Type --></label>
         <name>Type__c</name>
         <picklistValues>
